@@ -1,4 +1,4 @@
-#CADisplayLink Metronome
+# CADisplayLink Metronome
 
 An example of using CADisplayLink as the timer behind a metronome
 
